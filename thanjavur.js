@@ -1,16 +1,16 @@
 const questions = [
     {
-        question: " The maze-like complex was constructed partly by the __ who took over Thanjavur in 1535, and partly by a local Maratha dynasty that ruled from 1676 to 1855. ",
-        optionA: " Chera ",
-        optionB: " Nayaks ",
-        optionC: " Chola ",
-        optionD: " Pandiya ",
+        question: "The maze-like complex was constructed partly by the __ who took over Thanjavur in 1535 and partly by a local Maratha dynasty that ruled from 1676 to 1855. ",
+        optionA: "Chera",
+        optionB: "Nayaks",
+        optionC: "Chola",
+        optionD: "Pandiya",
         correctOption: "optionB"
     },
 
     {
         question : " Thanjavur district is called __ ",
-        optionA: " 'The Rice Bowl of Tamil Nadu' ",
+        optionA: " The Rice Bowl of Tamil Nadu ",
         optionB: " The Spring Bowl of Tamil Nadu",
         optionC: " The Temples of Tamil Nadu  ",
         optionD: " None of the above  ",
