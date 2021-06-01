@@ -36,10 +36,10 @@ const questions = [
     },
 
     {
-        question : "The  temple is a part of the ___ World Heritage Site known as the “Great Living Chola Temples”, ",
+        question : "The temple is a part of the ___ World Heritage Site known as the Great Living Chola Temples ", 
         optionA: " SNAP ",
         optionB: " WHO ",
-        optionC: " UNICEF",
+        optionC: " UNICEF ",
         optionD: " UNESCO ",
         correctOption: "optionD"
     },
