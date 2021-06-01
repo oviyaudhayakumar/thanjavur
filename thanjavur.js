@@ -1,10 +1,10 @@
 const questions = [
     {
         question: "The maze-like complex was constructed partly by the __ who took over Thanjavur in 1535 and partly by a local Maratha dynasty that ruled from 1676 to 1855. ",
-        optionA: "Chera",
-        optionB: "Nayaks",
-        optionC: "Chola",
-        optionD: "Pandiya",
+        optionA: " Chera ",
+        optionB: " Nayaks ",
+        optionC: " Chola",
+        optionD: " Pandiya ",
         correctOption: "optionB"
     },
 
@@ -47,7 +47,7 @@ const questions = [
     {
         question : " __ is one of the best places for Sangeetha (music) lovers. Also popular as the Hall of Music  the place was built in 1600’s during the rule of Nayak King Sevappa Nayak",
         optionA: " Sageetha Mahal ",
-        optionB: "Sageeth Mahal ",
+        optionB: " Sageeth Mahal ",
         optionC: " Royal Mahal ",
         optionD: " None of the above",
         correctOption: "optionA"
