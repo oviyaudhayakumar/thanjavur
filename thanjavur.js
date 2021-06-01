@@ -18,7 +18,7 @@ const questions = [
     },
 
     {
-        question : " Brihadishvara temple, also called Rajarajeswaram or Peruvudaiyār Kōvil, is a Hindu temple dedicated to___ located in South bank of Kaveri river in Thanjavur, Tamil Nadu ",
+        question : " Brihadishvara temple, also called Rajarajeswaram or Peruvudaiyār Kōvil, is a Hindu temple dedicated to___ located in South bank of Kaveri river in Thanjavur Tamil Nadu ",
         optionA: " Meenakshi  ",
         optionB: " Ganesha ",
         optionC: " Muruga ",
@@ -45,7 +45,7 @@ const questions = [
     },
 
     {
-        question : " __ is one of the best places for Sangeetha (music) lovers. Also, popular as the ‘Hall of Music’, the place was built in 1600’s during the rule of Nayak King Sevappa Nayak.",
+        question : " __ is one of the best places for Sangeetha (music) lovers. Also, popular as the Hall of Music , the place was built in 1600’s during the rule of Nayak King Sevappa Nayak.",
         optionA: " Sageetha Mahal ",
         optionB: "Sageeth Mahal ",
         optionC: " Royal Mahal ",
@@ -54,7 +54,7 @@ const questions = [
     },
 
     {
-        question7: " _ tower is situated in the Northwestern side of the Arsenal Tower. This tower is also known as “the wide holed ear pavilion” to the public and designed in the style of the Gingee Nayaks. The seven-story bell tower has superb views of the Big Temple and a bird’s eye view of the city of Thanjavur. ",
+        question7: " _ tower is situated in the Northwestern side of the Arsenal Tower. This tower is also known as the wide holed ear pavilion to the public and designed in the style of the Gingee Nayaks. The seven-story bell tower has superb views of the Big Temple and a bird’s eye view of the city of Thanjavur. ",
         optionA: " Dell ",
         optionB: " Bell ",
         optionC: " Tanjavur ",
