@@ -45,12 +45,12 @@ const questions = [
     },
 
     {
-        question : " __ is one of the best places for Sangeetha (music) lovers. Also, popular as the Hall of Music  the place was built in 1600’s during the rule of Nayak King Sevappa Nayak. ",
+        question : " __ is one of the best places for Sangeetha (music) lovers. Also, popular as the Hall of Music  the place was built in 1600 ’s during the rule of Nayak King Sevappa Nayak",
         optionA: " Sageetha Mahal ",
         optionB: "Sageeth Mahal ",
         optionC: " Royal Mahal ",
         optionD: " None of the above",
-        correctOption: " optionA "
+        correctOption: "optionA"
     },
 
     {
